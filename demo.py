@@ -1,4 +1,5 @@
-__author__ = 'mhentsch'
+__author__ = 'MaxTechTV'
+
 import ytstats
 
 
